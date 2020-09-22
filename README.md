@@ -31,8 +31,10 @@ Please ensure that your final submission includes the following:
 2. Code file for reproducing the submission, note that it is mandatory to submit your code for a valid final submission
 
 ## Final Results
-Pending
+ROC AUC Score (Private) - 0.8629324603 
+ROC AUC Score (Public) - 0.8578634574
 
 ## Winning Results
-Pending
+ROC AUC Score (Private) - 0.8639416417
+ROC AUC Score (Public) - 0.8594633845
  
